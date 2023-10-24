@@ -1,0 +1,16 @@
+/* .form-group{
+    display: flex;
+    justify-content: space-evenly;
+} */
+
+.submitBtn{
+    background-color: rgb(128, 190, 128);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.title{
+    margin: 1em 0;
+    color: rgb(128, 190, 128);
+}
